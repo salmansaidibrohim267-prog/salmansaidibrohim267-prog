@@ -1,67 +1,132 @@
-# Hi, I'm Salman 👋
+<p align="center">
 
-DevOps Engineer passionate about Linux, Docker, Self-Hosted Infrastructure, and AI Automation.
+![Linux](https://img.shields.io/badge/Linux-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-I enjoy building reliable infrastructure using Docker Compose, monitoring stacks, reverse proxies, and automation tools.
+</p>
+
+
+<h1 align="center">Hi 👋, I'm Salman</h1>
+
+<p align="center">
+DevOps Engineer • Linux Enthusiast • Self-Hosted Infrastructure • AI Automation
+</p>
+
+<p align="center">
+Building reliable infrastructure with Docker, monitoring stacks, reverse proxies, and automation.
+</p>
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 About Me
 
-- 🐳 Docker & Docker Compose
-- 🐧 Linux (Arch Linux / Ubuntu)
-- 🌐 Traefik
-- 📊 Grafana
-- 🔥 Prometheus
-- 📜 Loki & Promtail
-- 📦 Portainer
-- ❤️ Uptime Kuma
-- 🤖 Ollama
-- 💬 Open WebUI
-- ⚙️ n8n
+- 🐧 Passionate about Linux (Arch Linux & Ubuntu)
+- 🐳 Building production-ready Docker infrastructures
+- 🌐 Deploying Reverse Proxy with Traefik
+- 📊 Monitoring with Grafana, Prometheus & Loki
+- 🤖 Running Local AI using Ollama & Open WebUI
+- ⚙️ Automating workflows with n8n
+- 📚 Currently learning Kubernetes, Terraform and Ansible
+
+---
+
+## 🛠 Tech Stack
+
+### 🐳 Containers
+
+- Docker
+- Docker Compose
+- Portainer
+
+### 🌐 Networking
+
+- Traefik
+- Let's Encrypt
+
+### 📊 Monitoring
+
+- Grafana
+- Prometheus
+- Loki
+- Promtail
+- Uptime Kuma
+
+### 🤖 AI
+
+- Ollama
+- Open WebUI
+
+### 🗄 Database
+
+- PostgreSQL
+- Redis
+
+### 🔧 DevOps Tools
+
+- Git
+- GitHub
+- GitHub Actions
+
+---
+
+# 🚀 Featured Project
+
+## 🏠 Kentyz HomeLab v2
+
+Production-ready self-hosted DevOps infrastructure powered by Docker Compose.
+
+### Features
+
+- 🌐 Reverse Proxy with Traefik
+- 🔒 Automatic HTTPS (Let's Encrypt)
+- 📊 Monitoring (Grafana + Prometheus)
+- 📜 Centralized Logging (Loki + Promtail)
+- ❤️ Uptime Monitoring (Uptime Kuma)
+- 🤖 Local AI (Ollama + Open WebUI)
+- ⚙️ Workflow Automation (n8n)
 - 🐘 PostgreSQL
 - 🔴 Redis
-- 🛠 Git & GitHub Actions
+- 🚀 GitHub Actions CI Validation
+
+### Repository
+
+➡️ **Kentyz HomeLab v2**
+
+https://github.com/salmansaidibrohim267-prog/Kentyz-HomeLab-v2
 
 ---
 
-## 📈 GitHub Stats
+## 📖 Currently Learning
 
-![](https://github-readme-stats.vercel.app/api?username=salmansaidibrohim267-prog&show_icons=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=salmansaidibrohim267-prog)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=salmansaidibrohim267-prog&layout=compact)
-
-## ⭐ Featured Project
-
-### Kentyz HomeLab
-
-A production-style self-hosted Docker infrastructure including:
-
-- Reverse Proxy with Traefik
-- Monitoring with Grafana & Prometheus
-- Centralized Logging with Loki & Promtail
-- Portainer Management
-- Uptime Kuma Monitoring
-- AI Platform (Ollama + Open WebUI)
-- n8n Automation
-- PostgreSQL & Redis
-
-➡️ https://github.com/salmansaidibrohim267-prog/Kentyz-HomeLab-v2
+- ☸️ Kubernetes (k3s)
+- 🌍 Terraform
+- ⚙️ Ansible
+- 🚀 CI/CD Pipelines
+- 📦 Docker Swarm
 
 ---
 
-## 🎯 Currently Learning
+## 🎯 Goals for 2026
 
-- Kubernetes (k3s)
-- Terraform
-- Ansible
-- CI/CD Pipelines
+- Build production-ready DevOps projects
+- Master Kubernetes ecosystem
+- Launch professional DevOps services on Fiverr
+- Contribute to Open Source
+- Become a DevOps Engineer
 
 ---
 
 ## 📫 Contact
 
-GitHub:
+GitHub
+
 https://github.com/salmansaidibrohim267-prog
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
